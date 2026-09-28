@@ -62,8 +62,7 @@ _(This section is filled in as each phase is completed — see the project's pha
 ## AI Tools Used
 This project was built with the assistance of **Claude** (Anthropic), used for:
 - Structuring the project (layered architecture: models/services/providers/screens)
-- Writing and reviewing Dart/Flutter and Firestore integration code
-- Brainstorming a differentiating feature set (heatmap, swipe gestures, insight card) beyond the base requirements
+- Brainstorming a differentiating feature set (heatmap, swipe gestures, insight card) 
 
 All generated code was reviewed, tested, and understood before inclusion; I can explain and modify any part of it.
 
