@@ -67,5 +67,5 @@ This project was built with the assistance of **Claude** (Anthropic), used for:
 All generated code was reviewed, tested, and understood before inclusion; I can explain and modify any part of it.
 
 ## Demo
-- Screen recording: _link here_
+- Screen recording: https://drive.google.com/file/d/1hG-MtP1Bt5NpUGFmVKfqT7YPjsNtMoNc/view?usp=sharing
 - APK: https://github.com/dewsithmenuka/expense_tracker/releases/tag/v1.0.0
