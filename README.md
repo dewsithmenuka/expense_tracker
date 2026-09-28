@@ -68,4 +68,4 @@ All generated code was reviewed, tested, and understood before inclusion; I can 
 
 ## Demo
 - Screen recording: _link here_
-- APK: _link here_
+- APK: https://github.com/dewsithmenuka/expense_tracker/releases/tag/v1.0.0
